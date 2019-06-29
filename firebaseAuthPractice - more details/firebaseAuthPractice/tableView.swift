@@ -1,8 +1,3 @@
-// 1- add table view
-// 2- segue
-// 4- assign the table view class to the vieew on canvas
-// 5- configure tha table view cell
-// 6- globale array
 
 
 import UIKit

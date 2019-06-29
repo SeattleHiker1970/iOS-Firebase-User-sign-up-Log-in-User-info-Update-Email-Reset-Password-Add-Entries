@@ -322,6 +322,9 @@ class welcomeView: UIViewController {
     
     
 }
+
+
+
 //        // 2- option B: Generation different keys
 //        self.ref.child(userID!).childByAutoId().setValue("1")
 //        self.ref.child(userID!).childByAutoId().setValue("7")
