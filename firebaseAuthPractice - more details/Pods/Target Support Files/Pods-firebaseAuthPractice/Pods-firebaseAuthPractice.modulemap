@@ -1,0 +1,6 @@
+framework module Pods_firebaseAuthPractice {
+  umbrella header "Pods-firebaseAuthPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}
