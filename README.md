@@ -4,4 +4,4 @@
 ## iOS Firebase User Authentication + Database - user is able to sign-up/log-in, retrieve user info, update email, reset password, add entries to the database
 
 
-> Please be aware that to open the project using Xcode, make sure you open it through the use of xcworkspace - (The white file)
+> Please be aware that when you open the project in Xcode, make sure you open it through the use of xcworkspace - (The white file) 
